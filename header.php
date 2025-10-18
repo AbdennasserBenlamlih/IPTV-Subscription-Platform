@@ -20,7 +20,7 @@
 		<nav class="navbar">
 			<div class="navbar-1">
 				<div>
-					<h1>4K <span class="stream">SPACE</span></h1>
+					<h1>Your <span class="stream">LOGO</span></h1>
 				</div>
 				<div class="navbar-1-div2" id="navbar-1-div2-id">
 					<ul class="menu">
